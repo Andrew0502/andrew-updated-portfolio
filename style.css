@@ -21,3 +21,8 @@ main {
     align-content: center;
     /* margin-left:0 */
 }
+
+.portfolio-card{
+    width: 323px;
+    height: 223px;
+}
